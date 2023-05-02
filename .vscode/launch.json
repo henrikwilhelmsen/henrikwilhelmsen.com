@@ -5,10 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "firefox",
             "request": "launch",
             "name": "Open index.html",
-            "file": "${workspaceFolder}/source/index.html"
+            "file": "${workspaceFolder}/source/index.html",
+            "reAttach": true
         }
     ]
 }

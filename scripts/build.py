@@ -15,7 +15,8 @@ DIST_FILES = [
     "portfolio.html",
     "resume.html",
     "layered-peaks-haikei.svg",
-    "Resume-Henrik-Wilhelmsen.pdf",
+    "mocap-shoot.jpg",
+    "resume-henrik-wilhelmsen.pdf",
 ]
 
 
